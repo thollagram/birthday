@@ -28,6 +28,7 @@ footer{
 }
 div.connect{
 	margin-left: 20px;
+	text-shadow: 2px 2px 5px red;
 }
 .contact:hover{
 	background-color: #e4e7e7;
@@ -36,4 +37,5 @@ div.carousel-caption.d-none.d-md-block{
 	color: black;
 	font-weight: bold;
 	font-size: 5rem;
+	text-shadow: 2px 2px 5px red;
 }
