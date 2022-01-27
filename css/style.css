@@ -1,0 +1,39 @@
+body{
+	background-color: #e4e7e7;
+	font-family: 'Birthstone', cursive;
+	color: black;
+}
+.navbar-brand{
+	font-size: 5rem;
+	font-weight: bolder;
+	text-align: left;
+}
+.jumbotron{
+	margin: 30px;
+	font-size: 3rem;
+	border-radius: 2.5rem;
+}
+p.lead{
+	font-size: 3rem;
+}
+footer{
+	background-color:white;
+	font-size: 2.5rem;
+	padding: 20px;
+}
+.contact{
+	width: 100px;
+	height: 100px;
+	margin: 0px 20px 0px 20px;
+}
+div.connect{
+	margin-left: 20px;
+}
+.contact:hover{
+	background-color: #e4e7e7;
+}
+div.carousel-caption.d-none.d-md-block{
+	color: black;
+	font-weight: bold;
+	text
+}
